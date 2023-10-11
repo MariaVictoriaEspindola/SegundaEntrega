@@ -1,0 +1,72 @@
+html {
+    font: size 62.5%;
+}
+body {
+    background-color:azure;
+}
+a {
+    text-decoration: none;
+    font-size: 1rem;
+    font-family: sans-serif;
+    color: red;
+}
+img {
+    width: 100%;
+}
+
+.imgmarca {
+     width: 12rem;
+     height: 12rem;
+}
+#menu {
+    padding: 2rem;
+    text-align: center;
+}
+#menu li {
+    list-style: none;
+}
+.imgportada{
+    height: 25rem;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+
+}
+.imgproducto {
+    width: 10rem;
+    height: 10rem;
+    padding-left: 3rem;
+    padding-bottom: 3rem;
+}
+.imgdestacado {
+    width: 10rem;
+    height: 15rem;
+    padding-left: 12rem;
+}
+#destacado {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2rem;
+    color: orangered;
+}
+footer {
+    background-color: darkgrey;
+}
+.icono {
+    height: 4rem;
+    width: 4rem;
+}
+p {
+    font-size: 1rem;
+    color: azure;
+    background-color: black;
+}
+section {
+    text-align: center;
+    font-size: 2rem;
+    text-transform: uppercase;
+    color: white;
+    background-color: black;
+}
+div{
+    padding: 2rem;
+}
